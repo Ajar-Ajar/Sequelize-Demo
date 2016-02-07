@@ -1,0 +1,24 @@
+{
+  "name": "Sequelize-Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajar-Ajar/Sequelize-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajar-Ajar/Sequelize-Demo/issues"
+  },
+  "homepage": "https://github.com/Ajar-Ajar/Sequelize-Demo#readme",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "sequelize": "^3.19.2"
+  }
+}
